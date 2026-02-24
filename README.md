@@ -107,7 +107,7 @@ The dataset contains **3,900 customer records** with 18 features including:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard_screenshot.png)
+[Dashboard](https://github.com/AlfiyaAhmed/-Customer-Shopping-Behavior-Analysis./blob/main/customer_behavior_dashboard.pbix)
 
 ---
 
