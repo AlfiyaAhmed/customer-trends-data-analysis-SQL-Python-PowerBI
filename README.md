@@ -112,5 +112,6 @@ The dataset contains **3,900 customer records** with 18 features including:
 
 
 ## 👩‍💻 Author
-
+**👩💻 Created by:** Alfiya Ahmed  
+**📅 Date:** February 2026  
 Made with ❤️ as part of a Data Analytics Portfolio Project
