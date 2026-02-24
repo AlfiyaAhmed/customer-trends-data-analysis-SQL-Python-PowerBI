@@ -115,16 +115,16 @@ The dataset contains **3,900 customer records** with 18 features including:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/Customer-Shopping-Behavior-Analysis.git
+(https://github.com/AlfiyaAhmed/-Customer-Shopping-Behavior-Analysis./tree/main)
 ```
 
 2. **Open the Python notebook**
 ```bash
-jupyter notebook Data.ipynb
+Jupyter Notebook Data.ipynb
 ```
 
 3. **Set up PostgreSQL database**
-   - Create a database called `customer_behavior`
+   - Create a database called `customer_behavior.`
    - Run the notebook to load cleaned data into PostgreSQL
 
 4. **Run SQL queries**
