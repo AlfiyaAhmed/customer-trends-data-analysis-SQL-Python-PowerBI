@@ -88,7 +88,7 @@ The dataset contains **3,900 customer records** with 18 features including:
 
 ## 🔍 Key Findings
 
-- **Clothing** is the top performing category by both revenue and sales volume
+- **Clothing** is the top-performing category by both revenue and sales volume
 - **Young Adults** generate the highest revenue across all age groups
 - Only **26.31%** of customers are subscribed — a major opportunity for loyalty programs
 - **Free Shipping** is the most preferred shipping method among customers
@@ -111,31 +111,6 @@ The dataset contains **3,900 customer records** with 18 features including:
 
 ---
 
-## 🚀 How to Use This Project
-
-1. **Clone the repository**
-```bash
-(https://github.com/AlfiyaAhmed/-Customer-Shopping-Behavior-Analysis./tree/main)
-```
-
-2. **Open the Python notebook**
-```bash
-Jupyter Notebook Data.ipynb
-```
-
-3. **Set up PostgreSQL database**
-   - Create a database called `customer_behavior.`
-   - Run the notebook to load cleaned data into PostgreSQL
-
-4. **Run SQL queries**
-   - Open `customer_behavior_sql_queries.sql`
-   - Run queries in PostgreSQL to extract business insights
-
-5. **Open Power BI Dashboard**
-   - Open `customer_behavior_dashboard.pbix` in Power BI Desktop
-   - Reconnect to your local PostgreSQL database if needed
-
----
 
 ## 👩‍💻 Author
 
